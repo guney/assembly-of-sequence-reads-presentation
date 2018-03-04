@@ -1,0 +1,49 @@
+.gdbar img {
+  width: 205px !important;
+  height: 95px !important;
+}
+
+.gdbar {
+  width: 340px !important;
+  height: 111px !important;
+}
+
+slides > slide:not(.nobackground):before {
+  width: calc(205px / 3);
+  height: calc(95px / 3);
+  background-size: calc(205px / 3) calc(95px / 3);
+}
+
+.title-slide hgroup h2 {
+  font-size: 24px !important;
+  line-height: 1.428571429;
+}
+
+slides > slide[data-slide-num="2"] h2 {
+  font-size: 52px !important;
+}
+
+slides > slide .image-container {
+  text-align: center !important;
+}
+
+slides > slide .read-lengths img {
+  width: 460px !important;
+}
+
+
+slides > slide .look-shotgun img {
+  height: 450px !important;
+}
+
+slides > slide .assembly-intro img {
+  width: 980px !important;
+}
+
+slides > slide .references li {
+  font-size: 90% !important;
+}
+
+small {
+  font-size: 60% !important;
+}
