@@ -56,7 +56,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Two different types of sequence assembly are available.
 
-1. **Mapping assembly:** Recreating the genome with reference based alignment andmapping, using prior knowledge.
+1. **Mapping assembly:** Recreating the genome with reference based alignment and mapping, using prior knowledge.
 2. ***de novo* assembly:** Recreating the original genome sequence through
 overlapping sequenced reads, with no prior knowledge.
 
